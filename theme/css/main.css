@@ -1,0 +1,43 @@
+body{font-family:ars_maquette_prolight; }
+.content-wrap{width: 80%;margin-right: auto;margin-left: auto;}
+
+.home-banner{background: url(../images/bg6.png);background-size: cover;}
+.home-content-wrap{height: 100%;width: 100%;background: rgba(0, 71, 27, 0.7);color: #fff;}
+.home-content-wrap .content-wrap{height: 100%;}
+.navbar-default{background: transparent;}
+.navbar{border: 0px;}
+.navbar-brand img{width: 95px;}
+.logowrap{margin-top: -16px;}
+.navbar-nav, .navbar-right{padding-top: 20px;}
+.navbar-default .navbar-nav>li>a{color: #f8c217;}
+.navbar-default .navbar-nav>li>a:hover{color: #fff;}
+ul.nav li.dropdown:hover > ul.dropdown-menu {display: block;}
+.banner-content{text-align: center;display: table;height: 80%;width: 100%;}
+.banner-content-cell{display: table-cell;vertical-align: middle;}
+.banner-content h1{font-size: 84px;font-weight: 900;font-family:ars_maquette_probold;-webkit-text-stroke: 1px #f8c217;}
+.banner-content p{font-size: 24px;}
+.video-banner-content{display: table;width: 100%;height: 300px;}
+.video-col, .video-description-col{display: table-cell;width: 50%;}
+.video-col{height: 100%;position: relative;}
+.video-col iframe{position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+.desc-table{display:table;height: 100%;width: 100%;}
+.desc-cell{display: table-cell;vertical-align: middle;text-align: center;padding: 20px;}
+.desc-cell h2{color: #f8c217;font-family:ars_maquette_probold;}
+.video-description-col{background: #00471B;color: #fff;}
+.video-banner{background: #b5b5b5;}
+
+.services-banner{background: #313131;padding-top: 30px;padding-bottom: 30px;}
+.services-banner-title{text-align: center;color: #fff;}
+.services-banner-title h2{font-family:ars_maquette_probold;font-size: 24px;color: #fff;}
+
+.services-banner-wrap{display: table;width: 100%;}
+.services-banner-col{display: table-cell;width: 25%;text-align: center;vertical-align: top;}
+.ser-img-wrap{width: 200px;height: 200px;overflow: hidden;border-radius: 50%;margin-right: auto;margin-left: auto;border: 2px solid #f8c217;}
+.ser-img-wrap img {width: auto;height: 100%;margin-left: -50px;}
+.services-banner-col{padding: 10px;}
+.services-banner-col h3{color: #fff;color: #f8c217;}
+.services-banner-col p{color: #fff;}
+.input-wrap{width: 60%;margin-right: auto;margin-left: auto;border: 1px solid #00471B;}
+.input-wrap .form-control{background:rgba(248, 194, 23, 0.5);}
+.newsletter-section{padding-top: 30px;padding-bottom: 30px;text-align: center;}
+.newsletter-section{background: url(../images/bg2.jpg);background-size: cover;}
